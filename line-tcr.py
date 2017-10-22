@@ -15,7 +15,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""¤¤¤¤ Bot By : @tenaya_bali ¤¤¤¤
+helpMessage ="""¤¤¤¤ Bot ¤¤¤¤
 ¤ Id︎
 ¤ Mid
 ¤ Me︎
@@ -83,9 +83,9 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':True,
-    'message':"Owner. Twitter : @tenaya_bali",
+    'message':" ",
     "lang":"JP",
-    "comment":"Owner. Twitter : @tenaya_bali",
+    "comment":" ",
     "commentOn":True,
     "commentBlack":{},
     "wblack":False,
